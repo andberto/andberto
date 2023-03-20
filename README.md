@@ -77,13 +77,14 @@
 
 ###
 
----
+***
 
 ###
 
 * 📚 Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
 * 📫 How to reach me: ```andrea.bertogalli@mail.polimi.it``` - ```andrea.bertogalli@outlook.com```
-* :link: Some of useful links<br>  - :eyes: [LinkedIn profile](https://www.linkedin.com/in/andrea-bertogalli-509383175/) 
+* :link: Some of useful links<br>  
+* :eyes: [LinkedIn profile](https://www.linkedin.com/in/andrea-bertogalli-509383175/) 
 * :earth_americas: [Website](https://andberto.github.io/)
 
 ###
