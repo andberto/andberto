@@ -74,7 +74,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andberto.andberto&right_color=rebeccapurple"  />
 </div>
 
-![-----------------------------------------------------](https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png)
+<div align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png"  />
+</div>
 ###
 
 * 📚 Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
