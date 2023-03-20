@@ -69,7 +69,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/andberto/andberto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-###
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andberto.andberto&right_color=rebeccapurple"  />
