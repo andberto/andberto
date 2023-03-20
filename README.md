@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="43" alt="microsoft-outlook logo"  />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" width="48" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" width="48" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" width="48" alt="react logo"  />
@@ -66,12 +66,9 @@
 <div align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png"  />
 </div>
-###
 
 * 📚 Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
 * 📫 How to reach me: ```andrea.bertogalli@mail.polimi.it``` - ```andrea.bertogalli@outlook.com```
 * :link: Some of useful links<br>  
   * :eyes: [LinkedIn profile](https://www.linkedin.com/in/andrea-bertogalli-509383175/) 
   * :earth_americas: [Website](https://andberto.github.io/)
-
-###
