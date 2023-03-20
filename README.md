@@ -77,15 +77,13 @@
 
 ###
 
-<div align="center">
-  <img height="50" src="https://images.squarespace-cdn.com/content/v1/5d4b883ec9fed300018d93b9/1597120550430-B01MAY0V8W7Y3KL52J8S/wave-gif.gif?format=500w"  />
-</div>
+---
 
 ###
 
-- 📚 Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
-- 📫 How to reach me: ```andrea.bertogalli@mail.polimi.it``` - ```andrea.bertogalli@outlook.com```
-- :link: Some of useful links<br>  - :eyes: [LinkedIn profile](https://www.linkedin.com/in/andrea-bertogalli-509383175/) 
-- :earth_americas: [Website](https://andberto.github.io/)
+* 📚 Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
+* 📫 How to reach me: ```andrea.bertogalli@mail.polimi.it``` - ```andrea.bertogalli@outlook.com```
+* :link: Some of useful links<br>  - :eyes: [LinkedIn profile](https://www.linkedin.com/in/andrea-bertogalli-509383175/) 
+* :earth_americas: [Website](https://andberto.github.io/)
 
 ###
