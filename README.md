@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! Welcome to my profile!</h2>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/andberto/andberto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+<br clear="both>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andberto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=andberto&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -57,9 +60,6 @@
 
 
 <br clear="both">
-<div align="center">
-<img src="https://raw.githubusercontent.com/andberto/andberto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/aqua.png"  />
